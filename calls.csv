@@ -1,0 +1,201 @@
+Timestamp,Caller,Receiver,Duration (s)
+2025-10-07 21:40:57.332575,Joshua Marshall,Mike Mitchell,760
+2025-09-28 13:57:40.332575,Peter Smith,Robert Smith,1508
+2025-10-04 17:13:00.332575,Mike Mitchell,Eric Grant,1047
+2025-09-24 02:14:17.332575,Joshua Marshall,Destiny Fischer,877
+2025-10-04 15:39:21.332575,Wayne Stokes,John 'Apex' Doe,1546
+2025-10-02 06:48:56.332575,Anita Sharp,Jasmine Mccall,1592
+2025-10-14 04:00:12.332575,Robert Smith,Peter Smith,248
+2025-10-07 02:49:15.332575,Andrew Lee,David Rivera,265
+2025-10-12 17:52:26.332575,David Hall,Stacy Ward,984
+2025-10-09 16:23:58.332575,Destiny Fischer,Ms. Kayla Harrington,911
+2025-10-05 20:33:59.332575,Anita Sharp,Michael Horn,961
+2025-09-18 22:44:26.332575,Jennifer Frazier,Shannon Richardson,1597
+2025-09-24 00:00:54.332575,Richard Valentine,Shannon Richardson,339
+2025-09-30 16:56:54.332575,Jennifer Patel,Peter Smith,835
+2025-10-01 02:26:15.332575,Frank Blackburn,Anita Sharp,558
+2025-10-10 19:04:23.332575,Victoria Sheppard,John Hamilton,1376
+2025-10-07 08:17:20.332575,Robert Smith,Eric Grant,728
+2025-09-18 13:22:17.332575,Jennifer Frazier,Roy Ellis,1646
+2025-10-10 07:38:20.332575,Brian Hansen,Patrick King,826
+2025-10-09 09:34:03.332575,Cassandra Moore,David Rivera,1218
+2025-09-25 11:24:39.332575,Andrew Lee,Sarah 'Crypto' Connor,223
+2025-09-29 07:24:25.332575,David Rivera,Patrick King,1758
+2025-09-21 11:22:23.332575,Shannon Richardson,Jasmine Patterson,352
+2025-10-04 17:00:42.332575,Jacob Garcia,Frank Blackburn,1643
+2025-09-29 11:56:15.332575,Mike Mitchell,Richard Valentine,1570
+2025-09-18 02:34:37.332575,Frank Blackburn,Daniel Hodges,1246
+2025-10-05 16:22:08.332575,Mike Mitchell,Destiny Fischer,1311
+2025-09-29 13:09:30.332575,Cassandra Moore,Frank Blackburn,851
+2025-10-09 00:42:13.332575,Robert Smith,Erin Bright,437
+2025-10-10 01:45:46.332575,Victoria Sheppard,Anita Sharp,1138
+2025-09-19 22:25:30.332575,Shannon Richardson,Joshua Marshall,714
+2025-10-01 18:54:03.332575,David Hall,John Hamilton,429
+2025-09-18 22:16:52.332575,Jasmine Mccall,Arthur Allen,397
+2025-09-16 00:55:05.332575,Matthew Berry,Joshua Marshall,778
+2025-10-02 22:09:18.332575,Johnathan Robinson,Amy Collier,1617
+2025-09-18 20:09:19.332575,The Broker,Richard Valentine,1702
+2025-09-22 14:43:57.332575,Johnathan Robinson,Jennifer Patel,111
+2025-09-30 05:53:04.332575,Daniel Hodges,Eric Grant,1635
+2025-09-16 15:48:25.332575,Amy Jones,Daniel Hodges,1031
+2025-10-12 00:56:50.332575,David Rivera,The Broker,1249
+2025-10-12 04:17:06.332575,Stacy Ward,Jennifer Patel,1146
+2025-09-23 16:23:06.332575,Frank Blackburn,Michael Sparks,1115
+2025-10-14 11:42:07.332575,Stacy Ward,Michael Paul,1687
+2025-09-30 11:34:49.332575,Frank Blackburn,Christine Nichols,1682
+2025-09-25 15:34:41.332575,Amy Collier,Lisa Adams,117
+2025-10-06 05:18:19.332575,John Hamilton,Anita Sharp,1642
+2025-10-04 08:56:09.332575,Destiny Fischer,Antonio Petersen,360
+2025-09-21 03:30:35.332575,Wayne Stokes,Mike Mitchell,1403
+2025-09-15 13:47:16.332575,Frank Blackburn,Joshua Marshall,302
+2025-10-05 14:02:29.332575,Dana Walker,Stacy Ward,1405
+2025-09-20 12:54:23.332575,Sarah 'Crypto' Connor,Arthur Allen,936
+2025-09-22 19:53:10.332575,Amy Collier,Arthur Allen,1466
+2025-10-02 05:49:57.332575,Amy Jones,Peter Smith,254
+2025-10-02 08:20:11.332575,Jasmine Patterson,Amy Collier,142
+2025-10-01 04:36:37.332575,Shannon Richardson,Jasmine Patterson,1438
+2025-10-14 08:45:44.332575,Wayne Stokes,Cassandra Moore,1456
+2025-10-04 06:32:08.332575,Jasmine Patterson,Wayne Stokes,22
+2025-10-10 19:33:16.332575,Amy Collier,The Broker,1239
+2025-09-18 13:46:02.332575,Cassandra Moore,Tracey Thomas,1602
+2025-10-01 16:35:12.332575,Erin Bright,Matthew Berry,1278
+2025-10-06 19:36:14.332575,Johnathan Robinson,Amy Jones,203
+2025-09-16 15:23:11.332575,Anita Sharp,Michael Sparks,1369
+2025-09-16 08:24:20.332575,Roy Ellis,Sarah 'Crypto' Connor,244
+2025-09-18 04:37:40.332575,Mike Mitchell,David Hall,831
+2025-09-17 09:20:46.332575,David Hall,Roy Ellis,1467
+2025-10-14 20:19:32.332575,Destiny Fischer,David Hall,811
+2025-09-30 00:16:25.332575,Roy Ellis,John 'Apex' Doe,1466
+2025-10-14 03:48:47.332575,Robert Smith,Amber Webb,1509
+2025-09-23 23:06:26.332575,The Broker,Anita Sharp,569
+2025-09-27 19:00:00.332575,Wayne Stokes,Michael Cardenas,984
+2025-09-24 17:17:05.332575,Eric Grant,Arthur Allen,404
+2025-09-23 05:45:56.332575,Amy Collier,Cassandra Moore,80
+2025-10-07 01:22:13.332575,Andrew Lee,Amy Collier,561
+2025-09-18 15:19:27.332575,Anita Sharp,Jacob Garcia,1270
+2025-09-16 23:17:51.332575,Cassandra Moore,Richard Valentine,592
+2025-09-21 12:42:39.332575,Frank Blackburn,Christine Nichols,1297
+2025-10-10 07:55:31.332575,Jacob Garcia,Joshua Marshall,72
+2025-09-23 17:27:53.332575,Sarah 'Crypto' Connor,Matthew Berry,1712
+2025-10-14 19:20:07.332575,Cassandra Moore,Christina Warren,1502
+2025-10-07 13:29:44.332575,Destiny Fischer,Ms. Kayla Harrington,978
+2025-10-05 20:41:13.332575,Brian Hansen,Eric Grant,1388
+2025-09-30 08:09:12.332575,Michael Mcintyre,Mike Mitchell,90
+2025-10-02 15:49:16.332575,Joshua Marshall,Tracey Thomas,86
+2025-09-16 10:28:36.332575,Michael Paul,David Hall,262
+2025-09-18 18:26:23.332575,Deborah Martin,Michael Horn,837
+2025-10-10 21:08:30.332575,Eric Grant,Jasmine Patterson,1199
+2025-10-06 03:51:28.332575,Sarah 'Crypto' Connor,Cassandra Moore,893
+2025-10-04 12:10:04.332575,Cassandra Moore,Jasmine Mccall,610
+2025-10-07 02:42:36.332575,Laura Phillips,Jennifer Patel,1445
+2025-10-09 00:39:22.332575,David Hall,Ms. Kayla Harrington,1709
+2025-10-14 23:43:35.332575,Amber Webb,Victoria Sheppard,1057
+2025-10-11 15:50:14.332575,John 'Apex' Doe,Christine Nichols,484
+2025-09-29 01:15:46.332575,John Hamilton,Joshua Marshall,313
+2025-09-15 13:00:35.332575,Patrick King,Brian Hansen,189
+2025-09-18 22:30:00.332575,Victoria Sheppard,Amy Collier,1466
+2025-10-10 09:11:53.332575,Lisa Adams,Dana Walker,1519
+2025-10-02 19:26:23.332575,Matthew Berry,Daniel Hodges,1050
+2025-09-16 08:53:25.332575,Daniel Hodges,Jasmine Mccall,199
+2025-09-27 20:13:46.332575,Cassandra Moore,Tracey Thomas,198
+2025-09-20 02:33:02.332575,David Rivera,Peter Smith,100
+2025-09-18 19:35:59.332575,Laura Phillips,Dana Walker,222
+2025-09-24 13:11:57.332575,Amy Collier,Michael Sparks,1037
+2025-10-13 07:55:24.332575,Lisa Adams,Roy Ellis,1742
+2025-09-16 16:15:37.332575,David Hall,Michael Mcintyre,923
+2025-10-13 13:09:43.332575,Jennifer Patel,Joshua Marshall,1531
+2025-09-30 13:16:13.332575,Amy Jones,Jennifer Patel,271
+2025-10-09 14:14:59.332575,Frank Blackburn,Sarah 'Crypto' Connor,327
+2025-10-06 01:00:07.332575,Richard Valentine,Victoria Sheppard,165
+2025-09-18 19:09:30.332575,Mike Mitchell,The Broker,144
+2025-10-04 18:57:57.332575,Michael Cardenas,Shannon Richardson,1153
+2025-10-13 05:00:07.332575,Michael Horn,Matthew Berry,474
+2025-10-01 00:01:21.332575,Lisa Adams,Anita Sharp,1042
+2025-09-26 08:30:09.332575,Robert Smith,John Hamilton,500
+2025-09-17 07:50:11.332575,Deborah Martin,David Hall,953
+2025-10-11 19:29:33.332575,Brian Hansen,Jennifer Frazier,424
+2025-09-27 14:18:37.332575,Victoria Sheppard,Jasmine Mccall,1187
+2025-10-09 23:47:50.332575,Stacy Ward,Christine Nichols,774
+2025-10-05 21:04:25.332575,Stacy Ward,Michael Horn,1784
+2025-10-04 03:36:15.332575,Michael Mcintyre,Christine Nichols,1611
+2025-10-10 12:22:56.332575,Johnathan Robinson,Michelle Taylor,440
+2025-10-14 20:48:58.332575,John 'Apex' Doe,Anita Sharp,354
+2025-09-17 03:08:59.332575,Wayne Stokes,Michael Paul,444
+2025-10-02 11:00:10.332575,Johnathan Robinson,Anita Sharp,1488
+2025-10-01 04:41:34.332575,Amber Webb,Brian Hansen,750
+2025-10-02 18:17:22.332575,Peter Smith,Christina Warren,224
+2025-09-29 16:12:32.332575,Laura Phillips,Amy Collier,629
+2025-09-28 15:50:21.332575,John 'Apex' Doe,Arthur Allen,1378
+2025-09-29 22:57:20.332575,Destiny Fischer,Jennifer Patel,1676
+2025-09-27 14:26:00.332575,Destiny Fischer,Christina Warren,1329
+2025-09-15 17:42:25.332575,Erin Bright,George Hernandez,854
+2025-10-02 23:41:26.332575,Jacob Garcia,George Hernandez,1050
+2025-10-06 14:00:32.332575,Wayne Stokes,Destiny Fischer,1744
+2025-10-08 14:54:34.332575,Jennifer Patel,Amy Collier,1003
+2025-09-24 14:48:35.332575,Christina Warren,Amy Collier,436
+2025-10-05 21:52:44.332575,Jennifer Frazier,Shannon Richardson,1239
+2025-09-19 08:57:03.332575,Richard Valentine,Shannon Richardson,823
+2025-09-26 03:46:17.332575,Amber Webb,Laura Phillips,1705
+2025-10-05 16:14:26.332575,Jasmine Patterson,Andrew Lee,1570
+2025-10-06 00:48:23.332575,John Hamilton,Cassandra Moore,1373
+2025-10-07 15:14:16.332575,Robert Smith,Lisa Adams,851
+2025-09-17 00:49:37.332575,Daniel Hodges,Amy Jones,882
+2025-10-01 02:25:01.332575,Michelle Taylor,Shannon Richardson,1197
+2025-10-13 07:02:34.332575,Brian Hansen,Shannon Richardson,516
+2025-09-27 01:45:16.332575,Michael Horn,Christina Warren,1145
+2025-09-24 01:13:50.332575,George Hernandez,Jennifer Patel,467
+2025-10-10 09:42:04.332575,Amber Webb,Amy Jones,1503
+2025-09-23 15:28:26.332575,Michael Cardenas,Victoria Sheppard,790
+2025-10-07 20:43:56.332575,Peter Smith,Andrew Lee,1026
+2025-09-29 13:55:09.332575,Deborah Martin,Michael Sparks,1067
+2025-09-30 20:30:18.332575,Tracey Thomas,Michael Horn,1722
+2025-10-10 00:22:45.332575,Matthew Berry,Michael Paul,447
+2025-09-26 00:26:44.332575,Amy Collier,Sarah 'Crypto' Connor,654
+2025-09-16 10:01:21.332575,Patrick King,Christine Nichols,761
+2025-10-01 22:10:41.332575,Jacob Garcia,Lisa Adams,1494
+2025-09-25 15:38:17.332575,Victoria Sheppard,Arthur Allen,854
+2025-10-07 07:53:49.332575,Michael Mcintyre,Amy Collier,849
+2025-10-04 17:20:47.332575,John 'Apex' Doe,Wayne Stokes,781
+2025-09-21 13:57:30.332575,John Hamilton,Amy Collier,624
+2025-10-12 01:39:04.332575,The Broker,Michael Sparks,305
+2025-09-26 06:33:52.332575,Christina Warren,Stacy Ward,1280
+2025-10-05 21:20:12.332575,Frank Blackburn,Michelle Taylor,264
+2025-10-05 08:02:33.332575,Michael Sparks,Roy Ellis,838
+2025-10-13 04:36:16.332575,Jennifer Patel,Michelle Taylor,1075
+2025-10-01 22:51:14.332575,Christina Warren,Matthew Berry,111
+2025-10-09 22:23:15.332575,David Rivera,Matthew Berry,363
+2025-09-17 05:41:21.332575,Amy Collier,John Hamilton,131
+2025-10-04 09:49:37.332575,Michael Sparks,Mike Mitchell,1170
+2025-09-29 11:05:41.332575,Wayne Stokes,The Broker,912
+2025-10-03 22:52:40.332575,David Rivera,Amy Collier,779
+2025-09-27 08:02:28.332575,Michael Paul,Sarah 'Crypto' Connor,897
+2025-10-07 13:59:40.332575,Michael Sparks,Jasmine Mccall,1332
+2025-10-08 23:31:47.332575,Brian Hansen,Michael Horn,10
+2025-10-03 13:11:39.332575,Destiny Fischer,Antonio Petersen,958
+2025-10-02 04:37:23.332575,Stacy Ward,Cassandra Moore,443
+2025-10-08 06:09:38.332575,Dana Walker,John 'Apex' Doe,1162
+2025-10-06 02:29:59.332575,Laura Phillips,Eric Grant,612
+2025-10-07 01:21:00.332575,Anita Sharp,Michael Mcintyre,999
+2025-09-20 17:22:38.332575,Dana Walker,Sarah 'Crypto' Connor,1234
+2025-10-04 10:17:28.332575,Amy Jones,Destiny Fischer,96
+2025-09-29 10:22:14.332575,Michael Horn,David Hall,638
+2025-09-23 11:11:25.332575,Amy Collier,Amy Jones,1647
+2025-10-04 12:35:20.332575,Antonio Petersen,George Hernandez,852
+2025-09-28 22:10:50.332575,Matthew Berry,Wayne Stokes,476
+2025-10-14 08:54:56.332575,Dana Walker,Joshua Marshall,1674
+2025-09-22 06:15:06.332575,Mike Mitchell,Dana Walker,605
+2025-10-04 10:00:34.332575,Destiny Fischer,Tracey Thomas,1409
+2025-10-06 12:18:49.332575,Roy Ellis,Sarah 'Crypto' Connor,722
+2025-09-19 18:03:58.332575,John Hamilton,Brian Hansen,1066
+2025-10-12 09:28:55.332575,Tracey Thomas,The Broker,1041
+2025-09-21 18:24:15.332575,David Hall,Jasmine Patterson,807
+2025-09-19 10:02:55.332575,John 'Apex' Doe,Destiny Fischer,1025
+2025-09-19 02:43:28.332575,The Broker,Matthew Berry,1606
+2025-10-03 03:51:10.332575,Michelle Taylor,George Hernandez,282
+2025-09-15 12:17:29.332575,Jasmine Mccall,Frank Blackburn,1423
+2025-10-12 06:59:43.332575,Michael Sparks,Jennifer Frazier,697
+2025-09-28 12:10:30.332575,Jennifer Patel,Deborah Martin,1407
+2025-10-03 23:51:00.332575,Stacy Ward,Erin Bright,30
+2025-09-20 18:56:05.332575,Lisa Adams,The Broker,1306
+2025-10-09 13:46:55.332575,Victoria Sheppard,Wayne Stokes,1153
+2025-09-19 19:27:11.332575,Shannon Richardson,Michael Mcintyre,346
