@@ -13,10 +13,12 @@ st.set_page_config(page_title="AI Forensic Assistant", layout="wide", page_icon=
 
 try:
     from config import GOOGLE_API_KEY
+    if not GOOGLE_API_KEY:
+        raise ImportError('GOOGLE_API_KEY not set')
     genai.configure(api_key=GOOGLE_API_KEY)
 except ImportError:
-    st.error("🚨 config.py file not found. Please create it and add your Google API Key.")
-    st.code("GOOGLE_API_KEY = 'YOUR_API_KEY_HERE'")
+    st.error("🚨 GOOGLE_API_KEY environment variable is not set (see .env.example).")
+    st.code("set GOOGLE_API_KEY=<your-key>")
     st.stop()
 
 @st.cache_data
