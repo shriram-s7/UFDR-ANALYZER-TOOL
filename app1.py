@@ -13,6 +13,8 @@ from transformers import pipeline
 st.set_page_config(page_title="AI Forensic Assistant", layout="wide", page_icon="🛡️")
 try:
     from config import GOOGLE_API_KEY
+    if not GOOGLE_API_KEY:
+        raise ImportError('GOOGLE_API_KEY not set')
     genai.configure(api_key=GOOGLE_API_KEY)
 except ImportError:
     st.error("🚨 `config.py` file not found...")
