@@ -1,12 +1,12 @@
 # UFDR Analyzer: AI-assisted forensic report explorer
 
-A Streamlit dashboard that lets an investigator explore the contents of a phone-extraction report (messages, call logs, contacts, photos and videos) with natural-language questions, a communication-network graph and media search. The bundled case, "Operation Digital Shadow", is entirely synthetic.
+A Streamlit dashboard that lets an investigator explore the contents of a phone-extraction report (messages, call logs, contacts, photos and videos) with natural-language questions, a communication-network graph and media search. The bundled case, "Operation Digital Shadow", is entirely synthetic. Built for **Smart India Hackathon 2025**.
 
 **Links:** [GitHub](https://github.com/shriram-s7/UFDR-ANALYZER-TOOL) · [Demo video](https://youtu.be/Ydn5dh8-xas)
 
 ## Overview
 
-A UFDR (Universal Forensic Extraction Device Report) holds thousands of messages, calls and media files, which is slow to review by hand. This prototype puts a conversational layer on top: you type a question such as "urgent messages from John Doe", Gemini converts it into a pandas filter over the data, and a second Gemini call summarises the results with key entities and red flags. A network graph shows who talks to whom, and the media tabs let you search photos and videos by content. It was built as a hackathon demo, and it runs only on the fake data in this repository (generated with Faker).
+A UFDR (Universal Forensic Extraction Device Report) holds thousands of messages, calls and media files, which is slow to review by hand. This prototype puts a conversational layer on top: you type a question such as "urgent messages from John Doe", Gemini converts it into a pandas filter over the data, and a second Gemini call summarises the results with key entities and red flags. A network graph shows who talks to whom, and the media tabs let you search photos and videos by content. It was built as a Smart India Hackathon 2025 entry, and it runs only on the fake data in this repository (generated with Faker).
 
 ## Features
 
@@ -103,8 +103,7 @@ There are no automated tests. The apps were not launched while writing this READ
 - `app.py` fakes the photo/video AI analysis (filename search and a delay) and hard-codes the John Doe demo path; `app1.py` is the one with real media models.
 - The Gemini-generated pandas filter is evaluated as code, which is unsafe for untrusted input.
 - `app1.py` still shows an outdated "config.py file not found" message if the API key is missing; set `GOOGLE_API_KEY` as described.
-- The earlier `README.txt` is a placeholder template and its video link is wrong; this README supersedes it.
 
 ## License
 
-No license specified. (`README.txt` says "For educational purposes only".)
+No license specified. The earlier README described the project as "for educational purposes only".
